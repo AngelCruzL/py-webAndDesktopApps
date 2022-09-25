@@ -3,6 +3,7 @@
 This repository contains the source code for the following web apps and desktop GUI apps:
 
 - [Flask Basic Server](01-flask-web-app.py)
+- [PyQt6 Desktop GUI App - Sentence Maker](02-sentence_maker.py)
 
 It's important to notice than the web apps are not meant to be used in production, but rather as a way to learn how to build them.
 
